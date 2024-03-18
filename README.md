@@ -1,2 +1,2 @@
-# sharky_bankrobbery
-Simple Bankrobbery for ESX with ox_lib
+# sharky_atmrobbery
+Simple Atmrobbery for ESX with ox_lib
